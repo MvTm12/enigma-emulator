@@ -1,0 +1,3 @@
+C:\Users\mvtm1\Desktop\HomeWorks 2017-18\Enigma Emulator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\mvtm1\Desktop\HomeWorks 2017-18\Enigma Emulator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\mvtm1\Desktop\HomeWorks 2017-18\Enigma Emulator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
